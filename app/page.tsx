@@ -639,7 +639,7 @@ export default function Portfolio() {
                     asChild
                     className="bg-orange-500 hover:bg-orange-600 text-white shadow-lg hover:shadow-orange-500/25 transition-all duration-300"
                   >
-                    <Link href="/portafolio/images/Juan_Camilo_Campos_CV_es.pdf" target="_blank" rel="noopener noreferrer">
+                    <Link href="/images/Juan_Camilo_Campos_CV_es.pdf" target="_blank" rel="noopener noreferrer">
                       <Download className="mr-2 h-4 w-4" />
                       {t.about.downloadCV}
                     </Link>
@@ -649,7 +649,7 @@ export default function Portfolio() {
                     variant="outline"
                     className="border-orange-500 text-orange-400 hover:bg-orange-500/10 bg-transparent"
                   >
-                    <Link href="/portafolio/images/Juan_Camilo_Campos_CV_en.pdf" target="_blank" rel="noopener noreferrer">
+                    <Link href="/images/Juan_Camilo_Campos_CV_en.pdf" target="_blank" rel="noopener noreferrer">
                       <Download className="mr-2 h-4 w-4" />
                       {t.about.downloadCVEn}
                     </Link>
