@@ -312,7 +312,7 @@ const translations: Record<
     about: {
       title: "Sobre Mí",
       description1:
-        "Soy un Ingeniero de Sistemas y Computación graduado de la Universidad Nacional de Colombia, especializado en el desarrollo de soluciones web robustas y escalables. Mi experiencia abarca desde sitios corporativos hasta plataformas complejas de e-commerce y sistemas de gestión.",
+        "Ingeniero de Sistemas y Computación graduado de la Universidad Nacional de Colombia, enofcado en el desarrollo de soluciones web robustas y escalables. Mi experiencia abarca desde sitios corporativos hasta plataformas complejas de e-commerce y sistemas de gestión.",
       description2:
         "Me apasiona crear experiencias digitales que no solo sean funcionales, sino también intuitivas y visualmente atractivas. Trabajo principalmente con Joomla, WordPress y tecnologías web modernas para entregar soluciones que superen las expectativas de mis clientes.",
       skillsTitle: "Tecnologías y Habilidades",
@@ -322,7 +322,7 @@ const translations: Record<
     portfolio: {
       title: "Mi Portafolio",
       description:
-        "Explora algunos de los proyectos que he desarrollado, desde sitios educativos hasta plataformas de e-commerce complejas.",
+        "Explora algunos de los proyectos en los que he trabajado, desde sitios educativos hasta plataformas de e-commerce complejas.",
       viewDetails: "Ver Detalles",
       visitSite: "Visitar Sitio",
     },
@@ -355,7 +355,7 @@ const translations: Record<
     about: {
       title: "About Me",
       description1:
-        "I am a Computer Systems Engineer graduated from Universidad Nacional de Colombia, specialized in developing robust and scalable web solutions. My experience ranges from corporate websites to complex e-commerce platforms and management systems.",
+        "Computer Systems Engineer graduated from Universidad Nacional de Colombia, specialized in developing robust and scalable web solutions. My experience ranges from corporate websites to complex e-commerce platforms and management systems.",
       description2:
         "I am passionate about creating digital experiences that are not only functional, but also intuitive and visually appealing. I work mainly with Joomla, WordPress and modern web technologies to deliver solutions that exceed my clients' expectations.",
       skillsTitle: "Technologies and Skills",
@@ -639,7 +639,7 @@ export default function Portfolio() {
                     asChild
                     className="bg-orange-500 hover:bg-orange-600 text-white shadow-lg hover:shadow-orange-500/25 transition-all duration-300"
                   >
-                    <Link href="/cv/Juan-Camilo-Campos-CV-ES.pdf" target="_blank" rel="noopener noreferrer">
+                    <Link href="/portafolio/images/Juan_Camilo_Campos_CV_es.pdf" target="_blank" rel="noopener noreferrer">
                       <Download className="mr-2 h-4 w-4" />
                       {t.about.downloadCV}
                     </Link>
@@ -649,7 +649,7 @@ export default function Portfolio() {
                     variant="outline"
                     className="border-orange-500 text-orange-400 hover:bg-orange-500/10 bg-transparent"
                   >
-                    <Link href="/cv/Juan-Camilo-Campos-CV-EN.pdf" target="_blank" rel="noopener noreferrer">
+                    <Link href="/portafolio/images/Juan_Camilo_Campos_CV_en.pdf" target="_blank" rel="noopener noreferrer">
                       <Download className="mr-2 h-4 w-4" />
                       {t.about.downloadCVEn}
                     </Link>
