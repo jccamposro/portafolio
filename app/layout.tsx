@@ -2,9 +2,12 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Portafolio Juan Camilo Campos',
+  description: 'Ingeniero de Sistemas y Computación – UNAL',
   generator: 'v0.dev',
+  icons: {
+    icon: 'public/favicon.png',
+  },
 }
 
 export default function RootLayout({
