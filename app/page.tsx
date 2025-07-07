@@ -51,7 +51,7 @@ const projectsData: Record<
       title: "UNAL Facultad de Economía - Micrositios",
       description:
         "Gestión de aproximadamente 20 micrositios para cada departamento de la facultad, creados con Joomla. Responsabilidades incluyen actualización de banners, noticias, información, etc.",
-      image: "/images/unal-fce-screenshot.png",
+      image: "/portafolio/images/unal-fce-screenshot.png",
       tech: ["Joomla", "WordPress", "PHP", "MySQL", "CMS"],
       category: "Educativo",
       url: "https://fce.unal.edu.co/facultad/",
@@ -63,7 +63,7 @@ const projectsData: Record<
       title: "Plataforma de Elecciones FCE",
       description:
         "Plataforma para realizar elecciones dentro de la facultad, desarrollada en WordPress con funcionalidades de votación segura.",
-      image: "/images/elecciones-fce-screenshot.png",
+      image: "/portafolio/images/elecciones-fce-screenshot.png",
       tech: ["WordPress", "PHP", "Security", "Voting System"],
       category: "Sistemas",
       url: "https://fce.unal.edu.co/fce_elecciones",
@@ -75,7 +75,7 @@ const projectsData: Record<
       title: "Fonquímicas - Extractos Bancarios",
       description:
         "Sitio de extractos bancarios donde usuarios pueden consultar sus extractos con seguridad. Plataforma desarrollada en WordPress con altos estándares de seguridad.",
-      image: "/images/fonquimicas-screenshot.png",
+      image: "/portafolio/images/fonquimicas-screenshot.png",
       tech: ["WordPress", "Security", "Banking", "User Authentication"],
       category: "Fintech",
       url: "https://fonquimicas.com/statements/",
@@ -87,7 +87,7 @@ const projectsData: Record<
       title: "Pasión Thermomix",
       description:
         "Trabajo en actualizaciones de plantillas para optimización de página e implementación de integraciones de pago con bancos. Mantenimiento continuo.",
-      image: "/images/thermomix-screenshot.png",
+      image: "/portafolio/images/thermomix-screenshot.png",
       tech: ["WordPress", "Payment Gateway", "Bank Integration", "Optimization"],
       category: "E-commerce",
       url: "https://www.pasionthermomix.co/",
@@ -110,7 +110,7 @@ const projectsData: Record<
       id: 6,
       title: "Ponderosa Flowers",
       description: "Sitio básico informativo desarrollado en WordPress para empresa del sector floricultor.",
-      image: "/images/ponderosa-screenshot.png",
+      image: "/portafolio/images/ponderosa-screenshot.png",
       tech: ["WordPress", "Responsive Design", "SEO"],
       category: "Corporativo",
       url: "https://ponderosa-flowers.com/",
@@ -121,7 +121,7 @@ const projectsData: Record<
       id: 7,
       title: "B2B Solución",
       description: "Sitio básico informativo desarrollado en WordPress para empresa de soluciones empresariales.",
-      image: "/images/b2b-solucion-screenshot.png",
+      image: "/portafolio/images/b2b-solucion-screenshot.png",
       tech: ["WordPress", "Corporate Design", "Responsive"],
       category: "Corporativo",
       url: "https://b2bsolucion.com",
@@ -135,7 +135,7 @@ const projectsData: Record<
       title: "UNAL Faculty of Economics - Microsites",
       description:
         "Management of approximately 20 microsites for each faculty department, created with Joomla. Responsibilities include updating banners, news, information, etc.",
-      image: "/images/unal-fce-screenshot.png",
+      image: "/portafolio/images/unal-fce-screenshot.png",
       tech: ["Joomla", "WordPress", "PHP", "MySQL", "CMS"],
       category: "Educational",
       url: "https://fce.unal.edu.co/facultad/",
@@ -147,7 +147,7 @@ const projectsData: Record<
       title: "FCE Elections Platform",
       description:
         "Platform for conducting elections within the faculty, developed in WordPress with secure voting functionalities.",
-      image: "/images/elecciones-fce-screenshot.png",
+      image: "/portafolio/images/elecciones-fce-screenshot.png",
       tech: ["WordPress", "PHP", "Security", "Voting System"],
       category: "Systems",
       url: "https://fce.unal.edu.co/fce_elecciones",
@@ -159,7 +159,7 @@ const projectsData: Record<
       title: "Fonquímicas - Bank Statements",
       description:
         "Bank statements site where users can securely consult their statements. Platform developed in WordPress with high security standards.",
-      image: "/images/fonquimicas-screenshot.png",
+      image: "/portafolio/images/fonquimicas-screenshot.png",
       tech: ["WordPress", "Security", "Banking", "User Authentication"],
       category: "Fintech",
       url: "https://fonquimicas.com/statements/",
@@ -171,7 +171,7 @@ const projectsData: Record<
       title: "Pasión Thermomix",
       description:
         "Work on template updates for page optimization and implementation of payment integrations with banks. Continuous maintenance.",
-      image: "/images/thermomix-screenshot.png",
+      image: "/portafolio/images/thermomix-screenshot.png",
       tech: ["WordPress", "Payment Gateway", "Bank Integration", "Optimization"],
       category: "E-commerce",
       url: "https://www.pasionthermomix.co/",
@@ -194,7 +194,7 @@ const projectsData: Record<
       id: 6,
       title: "Ponderosa Flowers",
       description: "Basic informational site developed in WordPress for a floriculture company.",
-      image: "/images/ponderosa-screenshot.png",
+      image: "/portafolio/images/ponderosa-screenshot.png",
       tech: ["WordPress", "Responsive Design", "SEO"],
       category: "Corporate",
       url: "https://ponderosa-flowers.com/",
@@ -205,7 +205,7 @@ const projectsData: Record<
       id: 7,
       title: "B2B Solución",
       description: "Basic informational site developed in WordPress for a business solutions company.",
-      image: "/images/b2b-solucion-screenshot.png",
+      image: "/portafolio/images/b2b-solucion-screenshot.png",
       tech: ["WordPress", "Corporate Design", "Responsive"],
       category: "Corporate",
       url: "https://b2bsolucion.com",
@@ -596,7 +596,7 @@ export default function Portfolio() {
                 <div className="relative">
                   <div className="w-80 h-80 mx-auto overflow-hidden rounded-2xl border-4 border-orange-500/20">
                     <Image
-                      src="/images/juan-camilo-photo.jpeg"
+                      src="/portafolio/images/juan-camilo-photo.jpeg"
                       alt="Juan Camilo Campos"
                       width={400}
                       height={400}
