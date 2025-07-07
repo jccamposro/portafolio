@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Ingeniero de Sistemas y Computación – UNAL',
   generator: 'v0.dev',
   icons: {
-    icon: 'public/favicon.png',
+    icon: '/portafolio/images/favicon.png',
   },
 }
 
