@@ -312,7 +312,7 @@ const translations: Record<
     about: {
       title: "Sobre Mí",
       description1:
-        "Ingeniero de Sistemas y Computación graduado de la Universidad Nacional de Colombia, enofcado en el desarrollo de soluciones web robustas y escalables. Mi experiencia abarca desde sitios corporativos hasta plataformas complejas de e-commerce y sistemas de gestión.",
+        "Ingeniero de Sistemas y Computación graduado de la Universidad Nacional de Colombia, enfocado en el desarrollo de soluciones web robustas y escalables. Mi experiencia abarca desde sitios corporativos hasta plataformas complejas de e-commerce y sistemas de gestión.",
       description2:
         "Me apasiona crear experiencias digitales que no solo sean funcionales, sino también intuitivas y visualmente atractivas. Trabajo principalmente con Joomla, WordPress y tecnologías web modernas para entregar soluciones que superen las expectativas de mis clientes.",
       skillsTitle: "Tecnologías y Habilidades",
