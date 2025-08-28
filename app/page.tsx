@@ -99,7 +99,7 @@ const projectsData: Record<
       title: "Puja Grupal",
       description:
         "Sitio de e-commerce que realizaba subastas de productos, trabajando por medio de dropshipping, desarrollado en WordPress.",
-      image: "/placeholder.svg?height=300&width=500&text=Puja+Grupal",
+      image: "/portafolio/images//8534aa84-d9ca-47f8-8782-7b2e57720f2c.png",
       tech: ["WordPress", "E-commerce", "Dropshipping", "Auction System"],
       category: "Marketplace",
       url: "https://pujagrupal.com",
@@ -183,7 +183,7 @@ const projectsData: Record<
       title: "Puja Grupal",
       description:
         "E-commerce site that conducted product auctions, working through dropshipping, developed in WordPress.",
-      image: "/placeholder.svg?height=300&width=500&text=Puja+Grupal",
+      image: "/portafolio/images//8534aa84-d9ca-47f8-8782-7b2e57720f2c.png",
       tech: ["WordPress", "E-commerce", "Dropshipping", "Auction System"],
       category: "Marketplace",
       url: "https://pujagrupal.com",
